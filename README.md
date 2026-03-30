@@ -1,6 +1,6 @@
-# Hi, I'm Roger Rajaratnam
-
 ![sourcier.uk](https://sourcier.uk/og-image.png)
+
+# Hi, I'm Roger Rajaratnam
 
 Software Engineering consultant based in the UK. I build things for the web and write about it at [sourcier.uk](https://sourcier.uk).
 
