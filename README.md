@@ -4,7 +4,9 @@ Software Engineering consultant based in the UK. I build things for the web and 
 
 ## What I work with
 
-JavaScript/TypeScript, Node.js, React, Astro, and whatever else gets the job done.
+**Frontend:** HTML, CSS/Sass, JavaScript, TypeScript, React, Astro
+**Backend:** Node.js, GraphQL, REST APIs, PostgreSQL
+**Infra:** AWS, Azure, Docker, Netlify, Git
 
 ## Latest writing
 
